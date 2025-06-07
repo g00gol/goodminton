@@ -1,7 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 
-import { MainLayout } from "./components/layouts/MainLayout";
-import { ErrorLayout } from "./components/layouts/ErrorLayout";
+import { MainLayout } from "./layouts/MainLayout";
+import { ErrorLayout } from "./layouts/ErrorLayout";
 
 import { Home } from "./pages/Home";
 import { NotFound } from "./pages/NotFound";
